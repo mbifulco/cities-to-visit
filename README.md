@@ -1,2 +1,2 @@
-# cities-to-visit
-An open source list of cities to visit, and things to do in each one.
+# Cities to Visit
+An open source list of places to visit, and things to do in each one.
